@@ -1,6 +1,6 @@
-#Living Data is about a tool to merge two CSV Files.
+# Living Data is about a tool to merge two CSV Files.
 
-##Usage
+## Usage
 - Take two CSV Files you want to merge (For example: F1.csv, F2.csv)
 - Copy the script
 - Run the following command on termainal: python MergeCSV.py F1.csv F2.csv
